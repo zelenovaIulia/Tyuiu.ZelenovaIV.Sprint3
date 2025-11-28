@@ -6,7 +6,7 @@ namespace Tyuiu.ZelenovaIV.Sprint3.Task0.V16.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void VaidExpression()
+        public void ValidExpression()
         {
             DataService ds = new DataService();
             int value = 2;
