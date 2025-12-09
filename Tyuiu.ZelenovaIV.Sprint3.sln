@@ -45,11 +45,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{AE4F5098-F8AB-4B27-A7C0-68FD35D2AD52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Lib", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Lib\Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Lib.csproj", "{18B0C18D-D21D-4431-964B-66D2C51A6593}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Lib", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Lib\Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Lib.csproj", "{18B0C18D-D21D-4431-964B-66D2C51A6593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Test", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Test\Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Test.csproj", "{3931E6E8-34C4-4BAD-87C4-75B77178AE92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Test", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30.Test\Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Test.csproj", "{3931E6E8-34C4-4BAD-87C4-75B77178AE92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V30", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30\Tyuiu.ZelenovaIV.Sprint3.Task5.V30.csproj", "{A158B2B7-1534-4A81-94FF-E363407FF2A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZelenovaIV.Sprint3.Task5.V14", "Tyuiu.ZelenovaIV.Sprint3.Task5.V30\Tyuiu.ZelenovaIV.Sprint3.Task5.V14.csproj", "{A158B2B7-1534-4A81-94FF-E363407FF2A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
