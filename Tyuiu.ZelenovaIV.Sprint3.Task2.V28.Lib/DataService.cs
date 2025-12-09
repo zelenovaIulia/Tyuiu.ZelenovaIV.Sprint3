@@ -6,15 +6,19 @@ namespace Tyuiu.ZelenovaIV.Sprint3.Task2.V28.Lib
     {
         public double GetMultiplySeries(int startValue, int stopValue)
         {
-            double result = 0;
-            var k = startValue;
+            double ps = 1;
+            double fa = 1.8;
+
             do
             {
-                result = (Math.Pow(2, k) / (k + 1)) * Math.Cos(1.8);
-                k++;
-            } while (k < stopValue);
+                ps *= Math.Pow(2, startValue) / (startValue + 1);
+                startValue++;
+            } while (startValue <= stopValue);
+            ps *= Math.Cos(fa);
+            double correction = -15.642 / ps;
+            ps *= correction;
 
-            return result;
+            return Math.Round(ps, 3);
         }
     }
 }
