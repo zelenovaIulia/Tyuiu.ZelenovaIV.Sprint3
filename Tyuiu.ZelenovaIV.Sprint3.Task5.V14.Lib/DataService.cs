@@ -1,4 +1,4 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint3;  
+﻿using tyuiu.cources.programming.interfaces.Sprint3;
 
 namespace Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Lib
 {
@@ -12,7 +12,7 @@ namespace Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Lib
             {
                 for (k = startValue2; k <= stopValue2; k++)
                 {
-                    sumSeries += Math.Sin(x) + (2 / k);
+                    sumSeries = sumSeries + (Math.Sin(x) + 2 / k);
                 }
 
             }
@@ -20,4 +20,3 @@ namespace Tyuiu.ZelenovaIV.Sprint3.Task5.V14.Lib
         }
     }
 }
-
