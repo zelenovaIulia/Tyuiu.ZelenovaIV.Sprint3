@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.ZelenovaIV.Sprint3.Task2.V28.Test
+﻿namespace Tyuiu.ZelenovaIV.Sprint3.Task3.V6.Test
 {
     [TestClass]
     public sealed class DataServiceTest
